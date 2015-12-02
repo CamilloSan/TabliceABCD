@@ -4,10 +4,10 @@ import java.util.ArrayList;
 public class ABC {
 
 	public static void main(String[] args) {
-		// Tworzenie LISTY
+		// Tworzenie LISTY NR1
 		ArrayList<String> NR1 = new ArrayList<String>();
 		// Dodanie zawartoœci
-		NR1.add("A");
+		NR1.add("k");
 		NR1.add("B");
 		NR1.add("C");
 		NR1.add("D");
