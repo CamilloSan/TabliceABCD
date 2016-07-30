@@ -7,7 +7,7 @@ public class ABC {
 		// Tworzenie LISTY NR1
 		ArrayList<String> NR1 = new ArrayList<String>();
 		// Dodanie zawartoœci
-		NR1.add("L");
+		NR1.add("A");
 		NR1.add("B");
 		NR1.add("C");
 		NR1.add("D");
